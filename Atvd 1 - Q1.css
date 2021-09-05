@@ -1,0 +1,20 @@
+h1{
+	color: orange;
+	font-family: sans-serif;
+	font-family: monospace;
+	font-size: 12ex;
+	font-style: italic;
+	letter-spacing: 1.3ex;
+}
+
+ul li{
+	color: blueviolet;
+	font-family: arial;
+	font-family: cursive;
+	font-size: 24px;
+	font-style: oblique;
+	text-transform: capitalize;
+}
+span{
+	text-decoration: line-through;
+}
